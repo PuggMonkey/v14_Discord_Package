@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.22"
+  },
+  "name": "v14_discord_package",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PUGG",
+  "license": "ISC",
+  "description": ""
+}
